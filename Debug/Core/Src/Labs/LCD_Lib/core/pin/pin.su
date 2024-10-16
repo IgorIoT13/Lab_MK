@@ -1,0 +1,6 @@
+../Core/Src/Labs/LCD_Lib/core/pin/pin.c:3:16:getPort	16	static
+../Core/Src/Labs/LCD_Lib/core/pin/pin.c:33:6:setupPin	16	static
+../Core/Src/Labs/LCD_Lib/core/pin/pin.c:84:6:changeMode	16	static
+../Core/Src/Labs/LCD_Lib/core/pin/pin.c:90:6:writePin	16	static
+../Core/Src/Labs/LCD_Lib/core/pin/pin.c:99:9:readPin	16	static
+../Core/Src/Labs/LCD_Lib/core/pin/pin.c:107:7:initPin	24	static
