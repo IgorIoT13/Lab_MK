@@ -8,7 +8,7 @@
 #ifndef SRC_LABS_LABSETTING_H_
 #define SRC_LABS_LABSETTING_H_
 
-#define LAB_1
+#define LAB_2
 
 
 #if defined LAB_1
