@@ -1,0 +1,7 @@
+../Core/Src/Labs/LabSetting.h:34:7:Lab_loop	8	static
+../Core/Src/Labs/LabSetting.h:38:7:Lab_output	8	static
+../Core/Src/Labs/LabSetting.h:42:7:Lab_input	8	static
+../Core/Src/Labs/LabSetting.h:46:7:Lab_setup	8	static
+../Core/Src/main.c:67:5:main	8	static
+../Core/Src/main.c:117:6:SystemClock_Config	72	static
+../Core/Src/main.c:157:6:Error_Handler	4	static,ignoring_inline_asm

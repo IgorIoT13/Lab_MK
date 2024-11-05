@@ -1,0 +1,12 @@
+../Core/Src/Labs/Lab-2/Lab-2.c:28:6:clearAllAlgo	4	static
+../Core/Src/Labs/Lab-2/Lab-2.c:38:6:Switch_State	8	static
+../Core/Src/Labs/Lab-2/Lab-2.c:51:6:Led_Controle	40	static
+../Core/Src/Labs/Lab-2/Lab-2.c:79:6:SetLight	48	static
+../Core/Src/Labs/Lab-2/Lab-2.c:101:6:Algo_1	200	static
+../Core/Src/Labs/Lab-2/Lab-2.c:126:6:Algo_2	200	static
+../Core/Src/Labs/Lab-2/Lab-2.c:153:6:Button_Cheker	32	static
+../Core/Src/Labs/Lab-2/Lab-2.c:162:6:Lab_outputL2	4	static
+../Core/Src/Labs/Lab-2/Lab-2.c:178:6:Lab_inputL2	4	static
+../Core/Src/Labs/Lab-2/Lab-2.c:187:6:testLed	8	static
+../Core/Src/Labs/Lab-2/Lab-2.c:197:6:Lab_setupL2	8	static
+../Core/Src/Labs/Lab-2/Lab-2.c:207:6:Lab_loopL2	8	static

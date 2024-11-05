@@ -1,0 +1,4 @@
+../Core/Src/Labs/Lab-5/Lab-5.c:6:6:Lab_outputL5	4	static
+../Core/Src/Labs/Lab-5/Lab-5.c:11:6:Lab_inputL5	4	static
+../Core/Src/Labs/Lab-5/Lab-5.c:16:6:Lab_setupL5	8	static
+../Core/Src/Labs/Lab-5/Lab-5.c:22:6:Lab_loopL5	4	static

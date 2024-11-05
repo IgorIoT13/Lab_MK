@@ -1,0 +1,7 @@
+../Core/Src/Labs/LabSetting.h:34:7:Lab_loop	1
+../Core/Src/Labs/LabSetting.h:38:7:Lab_output	1
+../Core/Src/Labs/LabSetting.h:42:7:Lab_input	1
+../Core/Src/Labs/LabSetting.h:46:7:Lab_setup	1
+../Core/Src/main.c:67:5:main	1
+../Core/Src/main.c:117:6:SystemClock_Config	3
+../Core/Src/main.c:157:6:Error_Handler	1

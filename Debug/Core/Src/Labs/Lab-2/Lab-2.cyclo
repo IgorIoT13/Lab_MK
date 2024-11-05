@@ -1,0 +1,12 @@
+../Core/Src/Labs/Lab-2/Lab-2.c:28:6:clearAllAlgo	1
+../Core/Src/Labs/Lab-2/Lab-2.c:38:6:Switch_State	3
+../Core/Src/Labs/Lab-2/Lab-2.c:51:6:Led_Controle	5
+../Core/Src/Labs/Lab-2/Lab-2.c:79:6:SetLight	5
+../Core/Src/Labs/Lab-2/Lab-2.c:101:6:Algo_1	14
+../Core/Src/Labs/Lab-2/Lab-2.c:126:6:Algo_2	14
+../Core/Src/Labs/Lab-2/Lab-2.c:153:6:Button_Cheker	3
+../Core/Src/Labs/Lab-2/Lab-2.c:162:6:Lab_outputL2	1
+../Core/Src/Labs/Lab-2/Lab-2.c:178:6:Lab_inputL2	1
+../Core/Src/Labs/Lab-2/Lab-2.c:187:6:testLed	1
+../Core/Src/Labs/Lab-2/Lab-2.c:197:6:Lab_setupL2	1
+../Core/Src/Labs/Lab-2/Lab-2.c:207:6:Lab_loopL2	1
